@@ -7,14 +7,17 @@ To see the game is working access to index.html file from Chrome browser or your
 First, you have to access to Chrome Console:
 
 For OS X: Cmd + Alt + I 
+
 For PC: Ctrl + Alt + I
 
 Clear Chrome Console:
 
 For OS X: Cmd + K 
+
 For PC: Ctrl + L
 
 Refreshing yor browser:
 
 For OS X: Cmd + R
+
 For PC: Ctrl + R or F5
